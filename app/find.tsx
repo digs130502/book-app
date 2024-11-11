@@ -15,7 +15,6 @@ const mockBooks = [
   { id: "3", title: "The Best Book" },
   { id: "4", title: "Interesting Read" },
   { id: "5", title: "Bookish Adventures" },
-  { id: "6", title: "Learning React Native" },
 ];
 
 export default function FindScreen() {
